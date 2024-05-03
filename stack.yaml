@@ -3,5 +3,6 @@ resolver: lts-21.7
 packages:
 - .
 
-# extra-deps: []
+extra-deps:
+- hasql-pool-1.1@sha256:409cd9e35cf28bcfe591964d992e4f2cf9a1b0ecab88a459a3c9e3e9868961a9,2368
 
